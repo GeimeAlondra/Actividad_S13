@@ -1,4 +1,4 @@
-**Pasos de instalación**
+**Pasos de ejecución**
 
 1. Clonar el repositorio:
 ```sh
