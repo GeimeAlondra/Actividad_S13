@@ -4,9 +4,9 @@
 ```sh
 git clone https://github.com/GeimeAlondra/Actividad_S13.git
 ```
-2. Entramos en la carpeta deñ proyecto
+2. Entramos en la carpeta del proyecto
 ```sh
-git cd Actividad_S13
+cd Actividad_S13
 ```
 4. Abrimos Visual Studio Code
 ```sh
